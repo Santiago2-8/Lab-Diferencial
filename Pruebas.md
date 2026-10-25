@@ -1,6 +1,6 @@
 # Trabajos de Calculo Diferencial
 
-A continuación, en este apartado, subiremos nuestros trabajos correspondientes a los laboratorios que hemos tenido desde la S1 hasta la S2
+A continuación, en este apartado, subiremos nuestros trabajos correspondientes a los laboratorios que hemos tenido desde el L1 - S1 hasta el L2 - S2
 
 # Aqui tan :D
 
