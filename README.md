@@ -12,6 +12,6 @@ Nota: Si existe algun inconveniente al abrir alguno de los enlaces en la tabla d
 | L1 | S1 | https://colab.research.google.com/drive/1ib3aqKFvVJuapR97m4NvteOWngyFNpzN?usp=sharing | 
 | L1 | S2 | https://colab.research.google.com/drive/1CSKaBrVmMVdHqUGSD3zCPBm61W7kz5te?usp=sharing | 
 | L2 | S1 | https://colab.research.google.com/drive/1c1qtc-QIzzWOe7AGwCGA3E3RZCcyhpt_?usp=sharing | 
-| L2 | S2 | https://colab.research.google.com/drive/1LGhO5wxjHuvFL66q_ag_H6AOGhIaOMVi?usp=sharing | 
+| L2 | S2 | https://colab.research.google.com/drive/1LGhO5wxjHuvFL66q_ag_H6AOGhIaOMVi?usp=sharing | https://drive.google.com/file/d/1dSaLs-2zwAZwGrmzD34pH5H5eaBs60hE/view?usp=sharing |
 
 *Papoi*
