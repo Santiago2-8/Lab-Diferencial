@@ -1,4 +1,4 @@
 # Lab-Diferencial
-Buenos dias profe y monitor nos presentamos, somos: Oscar Santiago Romero Cruz, Juan Jose Florez Lopez, Santiago Botero y Emmanuel Romero Romero
+Buenos dias profe y monitor nos presentamos, somos: Oscar Santiago Romero Cruz, Juan Jose Florez Lopez, Santiago Botero Sierra y Emmanuel Romero Romero
 
 En este Repositorio, nosotros subiremos nuestros trbajaos con sus respectivas condiciones (Codigo y Fotografia)
