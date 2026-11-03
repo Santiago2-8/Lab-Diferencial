@@ -14,4 +14,4 @@ Nota: Si existe algun inconveniente al abrir alguno de los enlaces en la tabla d
 | L2 | S1 | https://colab.research.google.com/drive/1c1qtc-QIzzWOe7AGwCGA3E3RZCcyhpt_?usp=sharing | 
 | L2 | S2 | https://colab.research.google.com/drive/1LGhO5wxjHuvFL66q_ag_H6AOGhIaOMVi?usp=sharing | https://drive.google.com/file/d/1dSaLs-2zwAZwGrmzD34pH5H5eaBs60hE/view?usp=sharing |
 
-*Papoi*
+<img width="474" height="393" alt="image" src="https://github.com/user-attachments/assets/1f675926-2851-4595-8607-f4ac4966433f" />
